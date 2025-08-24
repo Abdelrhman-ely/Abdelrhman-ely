@@ -87,13 +87,10 @@
        🌏 contact me:
     </h1>
     <div align="left">
-        <a href="https://www.facebook.com/profile.php?id=100025273931597&mibextid=JRoKGi" target="_blank" style="text-decoration: none;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="30" height="30">
-        </a>
-        <a href="https://www.instagram.com/mhmdlwqy24.06?igsh=cjF1c3dxeHZ1YzFz" target="_blank" style="text-decoration: none;">
+        <a href="https://www.instagram.com/abdelrhman_elyamny" target="_blank" style="text-decoration: none;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30">
         </a>
-        <a href="https://www.linkedin.com/in/mohamedelawakey/" target="_blank" style="text-decoration: none;">
+        <a href="https://www.linkedin.com/in/abdelrhman-elyamny/" target="_blank" style="text-decoration: none;">
             <img src="https://static.vecteezy.com/system/resources/previews/023/986/608/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn" width="35" height="35">
         </a>
     </div>
