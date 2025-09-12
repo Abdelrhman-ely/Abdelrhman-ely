@@ -35,31 +35,19 @@
         <img  height="40" src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fydrrdbbx40u42fduzpgm.png" alt="matplotlib" />
         <img  height="40" src="https://app.matatika.com/assets/images/datasource/tap-beautifulsoup.png" alt="beautifulsoup" />
         <img  height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" />
-        <img  height="40" src="https://cdn-icons-png.flaticon.com/512/10129/10129318.png" alt="NLP" />
         <img  height="40" src="https://cdn-icons-png.flaticon.com/512/8345/8345929.png" alt="ML" />
         <img  height="40" src="https://static.vecteezy.com/system/resources/previews/022/597/198/original/3d-file-sql-icon-illustration-png.png" alt="SQL" />
         <img  height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kaggle_Logo.svg/800px-Kaggle_Logo.svg.png" alt="Kaggle" />
-        <img  height="40" src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-6.jpg" alt="Terminal" />
         <img  height="40" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="Git" />
         <img  height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHup" />
-        <!-- <img  height="40" src="" alt="" /> -->
-    </div>
-</div>
-<br>
-
-<!--currently learn:-->
-
-<div >
-    <h1 align="left"> 
-       <img  height="40" src="https://cdn-icons-png.flaticon.com/512/12887/12887487.png" alt="currently_learn" /> currently learn:
-    </h1>
-    <div>
         <img  height="40" src="https://www.pngmart.com/files/23/Power-Bi-Logo-PNG-Photos.png" alt="powerBI" />
         <img  height="40" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="Tableau" />
         <img  height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="TensorFlow" />
         <img  height="40" src="https://keras.io/img/logo.png" alt="keras" />
+        <!-- <img  height="40" src="" alt="" /> -->
     </div>
 </div>
+<br>
 <br>
 
 <!--Editors-->
@@ -70,9 +58,6 @@
     </h1>
     <div>
         <img  height="40" src="https://i.pinimg.com/originals/00/f4/05/00f40564d281eee8dbb931024b8e6975.png" alt="vs_code" />
-        <img  height="40" src="https://logonoid.com/images/intellij-idea-logo.png" alt="intellij" />
-        <img  height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/JetBrains_PyCharm_Product_Icon.svg/800px-JetBrains_PyCharm_Product_Icon.svg.png" alt="pycharm" />
-        <img  height="40" src="https://cdn3.emoji.gg/emojis/7377_code_blocks.png" alt="code_blocks" />
         <img  height="40" src="https://images.icon-icons.com/2667/PNG/512/jupyter_app_icon_161280.png" alt="Jupyter__Notebook" />
         <img  height="40" src="https://raw.githubusercontent.com/gist/egormkn/672764e7ce3bdaf549b62a5e70eece79/raw/559e34c690ea4765001d4ba0e715106edea7439f/jupyter-lab.svg" alt="JupyterLab" />
         <img  height="40" src="https://img.icons8.com/?size=512&id=lOqoeP2Zy02f&format=png" alt="Google Colab" />
@@ -87,9 +72,6 @@
        🌏 contact me:
     </h1>
     <div align="left">
-        <a href="https://www.instagram.com/abdelrhman_elyamny" target="_blank" style="text-decoration: none;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30">
-        </a>
         <a href="https://www.linkedin.com/in/abdelrhman-elyamny/" target="_blank" style="text-decoration: none;">
             <img src="https://static.vecteezy.com/system/resources/previews/023/986/608/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn" width="35" height="35">
         </a>
