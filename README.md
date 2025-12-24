@@ -1,10 +1,9 @@
-<!--svg words-->
-
 <div align="center">
-    <h1> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=35&duration=3000&color=mix&center=true&vCenter=true&width=435&lines=Hello, I'm+Abdelrhman+Elyamny;a+ML+Engineer;Welcome+to+my+profile;" alt="Typing SVG"/>
-    </h1>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Hello,+I'm+Abdelrhman+Elyamny;ML+Engineer;Welcome+to+my+GitHub+profile;" alt="Typing SVG"/>
+  </h1>
 </div>
+
 
 <!--image gif & about me-->
 
