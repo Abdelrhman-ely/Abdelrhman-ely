@@ -36,7 +36,6 @@ I'm **Abdelrhman Elyamny**, an Information Systems student at Tanta University w
   <img height="40" src="https://cdn-icons-png.flaticon.com/512/8345/8345929.png" alt="ML" />
 </p>
 
-
 ### Development Tools
 <p>
   <img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="Git" />
@@ -60,9 +59,6 @@ I'm **Abdelrhman Elyamny**, an Information Systems student at Tanta University w
 <p>
   <a href="https://www.linkedin.com/in/abdelrhman-elyamny/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/AbdelrhmanElyamny" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
