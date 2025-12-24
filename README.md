@@ -6,7 +6,7 @@
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 <img align="right" src="https://imarticus.org/blog/wp-content/uploads/2021/12/gew.gif" alt="Coding GIF" width="300" height="220" />
 I'm Abdelrhman Elyamny, an Information Systems student at Tanta University with a passion for Data Science and AI. Currently working as an intern in Data Science & AI, I'm focused on building machine learning solutions and expanding my expertise in the field.
 <br clear="right"/>
