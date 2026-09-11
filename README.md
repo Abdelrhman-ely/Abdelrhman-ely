@@ -7,7 +7,7 @@ I bridge the gap between complex ML models and scalable production environments.
 
 ### Technical Toolkit
 * **Languages & Core:** Python, SQL, C++
-* **AI & Deep Learning:** TensorFlow, Scikit-learn, Computer Vision (Object Detection, Tracking)
+* **AI & Deep Learning:** PyTorch, Scikit-learn, Computer Vision (Object Detection, Tracking)
 * **MLOps & Backend:** FastAPI, Docker, MongoDB
 
 ---
